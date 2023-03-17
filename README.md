@@ -1,9 +1,7 @@
 ### Oii! Eu sou a Maysa 👋
 
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando Javascript
-- 😄 Pronouns: ela/dela
+
 
 <br>
 <div>
